@@ -2,4 +2,4 @@ deploy:
   provider: script
   script: echo "Hello World"
   on:
-    branch: master
+    branch: main
